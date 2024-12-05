@@ -5,7 +5,7 @@ slug: character-designer
 date: 2024-03-06 00:00:00+0000
 image: __(2).svg
 categories:
-    - Example Category
+    - Second Example Category
 tags:
     - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
