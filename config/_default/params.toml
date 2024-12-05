@@ -35,7 +35,7 @@ default = "Licensed under CC BY-NC-SA 4.0"
 type = "search"
 
 [[widgets.homepage]]
-type = "archives"
+type = "cases"
 
 [widgets.homepage.params]
 limit = 5
