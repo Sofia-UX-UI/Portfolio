@@ -3,7 +3,7 @@ title: Character Designer
 description: Welcome to Hugo Theme Stack
 slug: character-designer
 date: 2024-03-06 00:00:00+0000
-image: cover.jpg
+image: __(2).svg
 categories:
     - Example Category
 tags:
