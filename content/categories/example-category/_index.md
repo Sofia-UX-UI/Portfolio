@@ -1,10 +1,10 @@
 ---
-title: Example Category
+title: Gamification
 description: A description of this category
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#ee82ee"
     color: "#fff"
 ---
